@@ -1,6 +1,6 @@
 # jsonplaceholder
 
-<p>Git Hub Pagges <a href="https://demisheva.github.io/jsonplaceholder/">demisheva.github.io/jsonplaceholder/</a></p
+<p>Git Hub Pagges <a href="https://demisheva.github.io/jsonplaceholder/">demisheva.github.io/jsonplaceholder/</a></p>
 
 <h1>TASK</h1>
 
