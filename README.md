@@ -1,5 +1,5 @@
 # jsonplaceholder
-<p>Use this API (https://jsonplaceholder.typicode.com/) for your calls.</p>
+
 <p>Git Hyb Pagges <a href="https://demisheva.github.io/jsonplaceholder/">demisheva.github.io/jsonplaceholder/</a></p
 
 <h1>TASK</h1>
@@ -35,3 +35,4 @@
     <li>Adding task/ folder is forbidden. Do not push it to repository. (Only homework/ folder should be pushed)</li>
     <li>Editing server folder is forbidden.</li>
 </ul>
+<p>Design in folder design</p>
